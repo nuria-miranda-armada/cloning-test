@@ -1,2 +1,2 @@
 "This is the coffee file that has been added from git bash"
-This is the coffee file
+This is the coffee file :)))
